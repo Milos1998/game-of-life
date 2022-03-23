@@ -21,6 +21,7 @@ module.exports= (env, argv) =>{
           { from: 'src/images/play.png', to: './images/play.png' },
           { from: 'src/images/trash.png', to: './images/trash.png' },
           { from: 'src/images/information.png', to: './images/information.png' },
+          { from: 'src/images/favicon.ico', to: './images/favicon.ico' },
         ]
       }),
     ],
