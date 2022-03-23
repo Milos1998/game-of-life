@@ -7,10 +7,10 @@ This is game inspired by Conway's game of life simulator. Click on cells to togg
 ## Project setup
 `npm install`
 
-### dev
+### Compiles and hot-reloads for development
 `npm run dev`
 
-### build
+### Compiles and minifies for production
 `npm run build-only`
 
 This command compiles dist file. After building you have to serve your dist file. For ubuntu you can run `serve -s dist` to serve it locally.
