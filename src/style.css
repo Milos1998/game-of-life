@@ -1,0 +1,9 @@
+#pixi-canvas{
+    position: absolute;
+}
+
+*{
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
